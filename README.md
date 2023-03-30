@@ -8,12 +8,12 @@ Animation:
 
 ## Features
 
-The atoms exist inside a father GameObject so its possible to move the entire animation
+* The atoms exist inside a father GameObject so its possible to move the entire animation
 
 ![7gfgm3](https://user-images.githubusercontent.com/8094167/228888337-70e9f02d-6512-468a-9d6c-fa20d1f3cab1.gif)
 
-
- You can assign different prefabs to different atoms.
+* You can assign different prefabs to different atoms.
+ 
  
  
  
