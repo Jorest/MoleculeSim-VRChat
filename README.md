@@ -1,6 +1,8 @@
 # MoleculeSim-VRChat
 
 This is a VR application that simulates the behavior of atoms given a XYZ data set on *VRChat* ! 
+(Requires some basic knowladge of Udon)
+
 (Some non-standard practices are used given the limitations of U#)
 
  Animation of XYZ file on VRChat
@@ -16,7 +18,8 @@ This is a VR application that simulates the behavior of atoms given a XYZ data s
 
 * The atoms exist inside a father GameObject so its possible to move the entire animation
 
- 
+![XYXp2](https://user-images.githubusercontent.com/8094167/234371990-a9e8d1c7-97c0-435e-b6b6-66757c929322.gif)
+
 
 
 
@@ -34,5 +37,9 @@ This is a VR application that simulates the behavior of atoms given a XYZ data s
 
 4. Create another Empty object wit the U# script XYZPloter and add the values
 ![image](https://user-images.githubusercontent.com/8094167/234369359-92439637-df98-4db2-abd1-6c907723bbcb.png)
+
+5. Hit PLay/Pause. You probably want to make your own scene, so here is the graph for the play button
+
+![image](https://user-images.githubusercontent.com/8094167/234372403-dff7a4da-32db-4cc0-bb0b-db56d2c71ea8.png)
 
 
