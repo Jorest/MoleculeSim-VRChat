@@ -1,6 +1,8 @@
 # MoleculeSim-VRChat
 
-This is a VR application that simulates the behavior of atoms given a dataset in VRChat.
+This is a VR application that simulates the behavior of atoms given a XYZ data set. 
+
+
 
 Animation:
 
@@ -19,3 +21,9 @@ Animation:
  Animation of XYZ file on VRChat
  
  ![XYXp0](https://user-images.githubusercontent.com/8094167/234337101-c6c4f972-af58-4fb5-8656-60316293c7f6.gif)
+
+
+# How to use 
+
+When exporting, select the positions only, and make sure you are not exporting a single frame.
+![image](https://user-images.githubusercontent.com/8094167/234338878-461c43fd-184c-4cca-895b-b6ca089bc8f4.png)
