@@ -2,11 +2,11 @@
 
 This is a VR application that simulates the behavior of atoms given a XYZ data set. 
 
+ Animation of XYZ file on VRChat
+ 
+ ![XYXp0](https://user-images.githubusercontent.com/8094167/234337101-c6c4f972-af58-4fb5-8656-60316293c7f6.gif)
 
 
-Animation:
-
-![7gf7ef](https://user-images.githubusercontent.com/8094167/228887275-f8491d00-e8cf-44c0-8c8e-9867c08a3a46.gif)
 
 ## Features
 
@@ -16,11 +16,7 @@ Animation:
 
 * You can assign different prefabs to different atoms.
  
- 
- 
- Animation of XYZ file on VRChat
- 
- ![XYXp0](https://user-images.githubusercontent.com/8094167/234337101-c6c4f972-af58-4fb5-8656-60316293c7f6.gif)
+
 
 
 # How to use 
