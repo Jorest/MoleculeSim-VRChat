@@ -13,10 +13,10 @@ This VR application simulates the behavior of atoms given an XYZ data set on *VR
 
 ## Features
 
-* Each atom/molecule type has its own prefab allowing plenty of customization
+* Each atom/molecule type consists of a prefab allowing for plenty of visual customization
 ![7gfgm3](https://user-images.githubusercontent.com/8094167/228888337-70e9f02d-6512-468a-9d6c-fa20d1f3cab1.gif)
 
-* The atoms exist inside a parent GameObject so it's possible to move the entire animation
+* The simulation exists in a 3-dimensional "cube" space, making it possible to place the entire animation in any place in a VR chat room.
 
 ![XYXp2](https://user-images.githubusercontent.com/8094167/234371990-a9e8d1c7-97c0-435e-b6b6-66757c929322.gif)
 
